@@ -1,0 +1,31 @@
+        .leaflet-popup {
+            margin-right: 17px;        
+        }
+        
+.scroll-bar-wrap:hover .cover-bar {
+   opacity: 0;
+  -webkit-transition: all .5s;
+}
+        
+        .leaflet-popup-content {
+            max-width: 300px;
+            height: 100px;
+            margin-right: 17px;
+            overflow:  auto;
+        }
+        
+         #map { 
+          position: absolute; 
+          top:0px; bottom:0; right:0; left:0; 
+         } 
+
+    #info-pane {
+    position: absolute;
+    height: 550px;
+    top: 0px;
+    right: 10px;
+    z-index: 400;
+    padding: 1em;
+    background: white;
+    text-align: right;
+  }  
