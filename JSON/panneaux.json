@@ -1,0 +1,565 @@
+{
+    "type":"FeatureCollection",
+    "features":[
+       {
+          "type":"Feature",
+          "geometry":{
+             "coordinates":[
+                3.158931188187931,
+                50.696263152554636
+             ],
+             "type":"Point"
+          },
+          "properties":{
+             "lieux":"Angle rue de Naples",
+             "type":"Affichage libre",
+             "geo_point_2d":[
+                50.6962631526,
+                3.15893118819
+             ],
+             "objectid":10,
+             "adresse":"84 rue de Rome"
+          }
+       },
+       {
+          "type":"Feature",
+          "geometry":{
+             "coordinates":[
+                3.177360364658075,
+                50.67807646077498
+             ],
+             "type":"Point"
+          },
+          "properties":{
+             "lieux":"Devant cour d'\u00e9cole",
+             "type":"Affichage libre",
+             "geo_point_2d":[
+                50.6780764608,
+                3.17736036466
+             ],
+             "objectid":12,
+             "adresse":"Place du Travail"
+          }
+       },
+       {
+          "type":"Feature",
+          "geometry":{
+             "coordinates":[
+                3.180624446441799,
+                50.67441027938376
+             ],
+             "type":"Point"
+          },
+          "properties":{
+             "lieux":"Angle Rue Puget",
+             "type":"Affichage libre",
+             "geo_point_2d":[
+                50.6744102794,
+                3.18062444644
+             ],
+             "objectid":15,
+             "adresse":"112 rue Henry R\u00e9gnault"
+          }
+       },
+       {
+          "type":"Feature",
+          "geometry":{
+             "coordinates":[
+                3.191817882511025,
+                50.685630659487195
+             ],
+             "type":"Point"
+          },
+          "properties":{
+             "lieux":"Square Destombes",
+             "type":"Affichage libre",
+             "geo_point_2d":[
+                50.6856306595,
+                3.19181788251
+             ],
+             "objectid":28,
+             "adresse":"Rue Pierre de Roubaix"
+          }
+       },
+       {
+          "type":"Feature",
+          "geometry":{
+             "coordinates":[
+                3.188174469923673,
+                50.705723110193986
+             ],
+             "type":"Point"
+          },
+          "properties":{
+             "lieux":"Angle rue de Constantine",
+             "type":"Affichage libre",
+             "geo_point_2d":[
+                50.7057231102,
+                3.18817446992
+             ],
+             "objectid":3,
+             "adresse":"421 rue d'Alger"
+          }
+       },
+       {
+          "type":"Feature",
+          "geometry":{
+             "coordinates":[
+                3.184272777136547,
+                50.68127159648244
+             ],
+             "type":"Point"
+          },
+          "properties":{
+             "lieux":"Devant groupe de la Potennerie",
+             "type":"Affichage libre",
+             "geo_point_2d":[
+                50.6812715965,
+                3.18427277714
+             ],
+             "objectid":14,
+             "adresse":"72 rue Dupuy de L\u00f4me"
+          }
+       },
+       {
+          "type":"Feature",
+          "geometry":{
+             "coordinates":[
+                3.197386096660439,
+                50.68309158669095
+             ],
+             "type":"Point"
+          },
+          "properties":{
+             "lieux":"Devant H\u00f4pital de la Fraternit\u00e9",
+             "type":"Affichage libre",
+             "geo_point_2d":[
+                50.6830915867,
+                3.19738609666
+             ],
+             "objectid":17,
+             "adresse":"20 Avenue Julien Lagache"
+          }
+       },
+       {
+          "type":"Feature",
+          "geometry":{
+             "coordinates":[
+                3.199486818124273,
+                50.67523207530837
+             ],
+             "type":"Point"
+          },
+          "properties":{
+             "lieux":"Entr\u00e9e rue Emile Zola",
+             "type":"Affichage libre",
+             "geo_point_2d":[
+                50.6752320753,
+                3.19948681812
+             ],
+             "objectid":20,
+             "adresse":"61 rue JJ. Rousseau"
+          }
+       },
+       {
+          "type":"Feature",
+          "geometry":{
+             "coordinates":[
+                3.18705585130777,
+                50.682318049010526
+             ],
+             "type":"Point"
+          },
+          "properties":{
+             "lieux":"Pr\u00e8s angle rue Montgolfier",
+             "type":"Affichage libre",
+             "geo_point_2d":[
+                50.682318049,
+                3.18705585131
+             ],
+             "objectid":25,
+             "adresse":"Face au 103 rue Jouffroy"
+          }
+       },
+       {
+          "type":"Feature",
+          "geometry":{
+             "coordinates":[
+                3.157976950351137,
+                50.698403033194985
+             ],
+             "type":"Point"
+          },
+          "properties":{
+             "lieux":"Boulevard d'Armenti\u00e8res",
+             "type":"Affichage libre",
+             "geo_point_2d":[
+                50.6984030332,
+                3.15797695035
+             ],
+             "objectid":26,
+             "adresse":"Pr\u00e8s de l'angle rue du Capitaine Aubert"
+          }
+       },
+       {
+          "type":"Feature",
+          "geometry":{
+             "coordinates":[
+                3.179732700323555,
+                50.70547538632191
+             ],
+             "type":"Point"
+          },
+          "properties":{
+             "lieux":"Angle rue Rollin",
+             "type":"Affichage libre",
+             "geo_point_2d":[
+                50.7054753863,
+                3.17973270032
+             ],
+             "objectid":8,
+             "adresse":"Boulevard de Metz"
+          }
+       },
+       {
+          "type":"Feature",
+          "geometry":{
+             "coordinates":[
+                3.181255946474207,
+                50.67987491855617
+             ],
+             "type":"Point"
+          },
+          "properties":{
+             "lieux":"Angle  rue Eug\u00e8ne Motte",
+             "type":"Affichage libre",
+             "geo_point_2d":[
+                50.6798749186,
+                3.18125594647
+             ],
+             "objectid":13,
+             "adresse":"16 rue JB Notte"
+          }
+       },
+       {
+          "type":"Feature",
+          "geometry":{
+             "coordinates":[
+                3.201371883337359,
+                50.68090716933301
+             ],
+             "type":"Point"
+          },
+          "properties":{
+             "lieux":"Rue L\u00e9on Blum",
+             "type":"Affichage libre",
+             "geo_point_2d":[
+                50.6809071693,
+                3.20137188334
+             ],
+             "objectid":19,
+             "adresse":"11 rue L\u00e9on Blum"
+          }
+       },
+       {
+          "type":"Feature",
+          "geometry":{
+             "coordinates":[
+                3.19393600081192,
+                50.68189672301911
+             ],
+             "type":"Point"
+          },
+          "properties":{
+             "lieux":"Face avenue Julien Lagache",
+             "type":"Affichage libre",
+             "geo_point_2d":[
+                50.681896723,
+                3.19393600081
+             ],
+             "objectid":23,
+             "adresse":"Place de la Fraternit\u00e9"
+          }
+       },
+       {
+          "type":"Feature",
+          "geometry":{
+             "coordinates":[
+                3.186038077758614,
+                50.697145650801076
+             ],
+             "type":"Point"
+          },
+          "properties":{
+             "lieux":"Place Audenaerde",
+             "type":"Affichage libre",
+             "geo_point_2d":[
+                50.6971456508,
+                3.18603807776
+             ],
+             "objectid":27,
+             "adresse":"Place Audenaerde"
+          }
+       },
+       {
+          "type":"Feature",
+          "geometry":{
+             "coordinates":[
+                3.159312859418467,
+                50.69346393993181
+             ],
+             "type":"Point"
+          },
+          "properties":{
+             "lieux":"Angle rue de Mouvaux",
+             "type":"Affichage libre",
+             "geo_point_2d":[
+                50.6934639399,
+                3.15931285942
+             ],
+             "objectid":1,
+             "adresse":"13 rue du Luxembourg"
+          }
+       },
+       {
+          "type":"Feature",
+          "geometry":{
+             "coordinates":[
+                3.213071094984929,
+                50.68836193259641
+             ],
+             "type":"Point"
+          },
+          "properties":{
+             "lieux":"Face rue du Duc",
+             "type":"Affichage libre",
+             "geo_point_2d":[
+                50.6883619326,
+                3.21307109498
+             ],
+             "objectid":4,
+             "adresse":"148 rue de Leers"
+          }
+       },
+       {
+          "type":"Feature",
+          "geometry":{
+             "coordinates":[
+                3.17837632108537,
+                50.686624674768375
+             ],
+             "type":"Point"
+          },
+          "properties":{
+             "lieux":"Face clinique Saint Jean",
+             "type":"Affichage libre",
+             "geo_point_2d":[
+                50.6866246748,
+                3.17837632109
+             ],
+             "objectid":11,
+             "adresse":"37 rue Saint Jean"
+          }
+       },
+       {
+          "type":"Feature",
+          "geometry":{
+             "coordinates":[
+                3.190140258742415,
+                50.68088931477895
+             ],
+             "type":"Point"
+          },
+          "properties":{
+             "lieux":"Angle Boulevard de Reims",
+             "type":"Affichage libre",
+             "geo_point_2d":[
+                50.6808893148,
+                3.19014025874
+             ],
+             "objectid":16,
+             "adresse":"201 rue Jouffroy"
+          }
+       },
+       {
+          "type":"Feature",
+          "geometry":{
+             "coordinates":[
+                3.197612781473294,
+                50.68114609509845
+             ],
+             "type":"Point"
+          },
+          "properties":{
+             "lieux":"Face rue du Pont Rouge",
+             "type":"Affichage libre",
+             "geo_point_2d":[
+                50.6811460951,
+                3.19761278147
+             ],
+             "objectid":18,
+             "adresse":"66 rue de Maufait"
+          }
+       },
+       {
+          "type":"Feature",
+          "geometry":{
+             "coordinates":[
+                3.186704445635848,
+                50.707610579100695
+             ],
+             "type":"Point"
+          },
+          "properties":{
+             "lieux":"Angle rue d'Alger",
+             "type":"Affichage libre",
+             "geo_point_2d":[
+                50.7076105791,
+                3.18670444564
+             ],
+             "objectid":2,
+             "adresse":"110 rue de l'Espierre"
+          }
+       },
+       {
+          "type":"Feature",
+          "geometry":{
+             "coordinates":[
+                3.2121813170528,
+                50.68366417946193
+             ],
+             "type":"Point"
+          },
+          "properties":{
+             "lieux":"Face au Rond point",
+             "type":"Affichage libre",
+             "geo_point_2d":[
+                50.6836641795,
+                3.21218131705
+             ],
+             "objectid":5,
+             "adresse":"56 rue du Stand de Tir"
+          }
+       },
+       {
+          "type":"Feature",
+          "geometry":{
+             "coordinates":[
+                3.203796379770197,
+                50.67620002343759
+             ],
+             "type":"Point"
+          },
+          "properties":{
+             "lieux":"Avant angle rue de Lannoy",
+             "type":"Affichage libre",
+             "geo_point_2d":[
+                50.6762000234,
+                3.20379637977
+             ],
+             "objectid":6,
+             "adresse":"24 Avenue du Parc des Sports"
+          }
+       },
+       {
+          "type":"Feature",
+          "geometry":{
+             "coordinates":[
+                3.170193142077126,
+                50.70540618710483
+             ],
+             "type":"Point"
+          },
+          "properties":{
+             "lieux":"Angle Quai de Dunkerque",
+             "type":"Affichage libre",
+             "geo_point_2d":[
+                50.7054061871,
+                3.17019314208
+             ],
+             "objectid":7,
+             "adresse":"125 rue de Tourcoing"
+          }
+       },
+       {
+          "type":"Feature",
+          "geometry":{
+             "coordinates":[
+                3.159350781630739,
+                50.701966205075344
+             ],
+             "type":"Point"
+          },
+          "properties":{
+             "lieux":"Angle Boulevard de la R\u00e9publique",
+             "type":"Affichage libre",
+             "geo_point_2d":[
+                50.7019662051,
+                3.15935078163
+             ],
+             "objectid":9,
+             "adresse":"Avenue Boileau"
+          }
+       },
+       {
+          "type":"Feature",
+          "geometry":{
+             "coordinates":[
+                3.189056799032667,
+                50.704883019589296
+             ],
+             "type":"Point"
+          },
+          "properties":{
+             "lieux":"Face rue Mazagran",
+             "type":"Affichage libre",
+             "geo_point_2d":[
+                50.7048830196,
+                3.18905679903
+             ],
+             "objectid":21,
+             "adresse":"362 rue d'Alger"
+          }
+       },
+       {
+          "type":"Feature",
+          "geometry":{
+             "coordinates":[
+                3.167047750589335,
+                50.704313449280406
+             ],
+             "type":"Point"
+          },
+          "properties":{
+             "lieux":"Angle Boulevard des B\u00e2tisseurs",
+             "type":"Affichage libre",
+             "geo_point_2d":[
+                50.7043134493,
+                3.16704775059
+             ],
+             "objectid":22,
+             "adresse":"Quai de Dunkerque"
+          }
+       },
+       {
+          "type":"Feature",
+          "geometry":{
+             "coordinates":[
+                3.184497969242503,
+                50.67367192273031
+             ],
+             "type":"Point"
+          },
+          "properties":{
+             "lieux":"Pr\u00e8s de la place Spriet",
+             "type":"Affichage libre",
+             "geo_point_2d":[
+                50.6736719227,
+                3.18449796924
+             ],
+             "objectid":24,
+             "adresse":"Avenue Charles Fourier"
+          }
+       }
+    ]
+ }
