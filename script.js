@@ -30,7 +30,7 @@
               layers: [Stamen_Terrain]
           });
 
-          $.getJSON("/JSON/bureaux.json", function (data) {
+          $.getJSON("JSON/bureaux.json", function (data) {
 
             bureaux = L.geoJSON(data, {
                 style: function(feature) {
@@ -46,7 +46,7 @@
             bureaux.addTo(map);
         });
 
-        $.getJSON("/JSON/quartier.json", function (data) {
+        $.getJSON("JSON/quartier.json", function (data) {
 
             quartier = L.geoJSON(data, {
                 style: function(feature) {
@@ -63,7 +63,7 @@
             map.removeLayer(quartier);
         });
           
-          $.getJSON("/JSON/panneaux.json", function (data) {
+          $.getJSON("JSON/panneaux.json", function (data) {
               var geojsonMarkerOptions = {
                   radius: 8,
                   fillColor: "#ff7800",
